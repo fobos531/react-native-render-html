@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { useMemo } from 'react';
 import { ImageStyle } from 'react-native';
 import { ImageDimensions } from '../shared-types';

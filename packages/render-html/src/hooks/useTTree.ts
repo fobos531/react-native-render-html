@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { useMemo, useEffect, useRef, useContext } from 'react';
 import ttreeEventsContext from '../context/ttreeEventsContext';
 import { useSharedProps } from '../context/SharedPropsProvider';

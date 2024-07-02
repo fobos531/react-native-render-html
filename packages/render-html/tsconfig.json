@@ -2,8 +2,15 @@
   "$schema": "http://json.schemastore.org/tsconfig",
   "extends": "../../tsconfig-base.json",
   "compilerOptions": {
+    "lib": ["ES2020", "DOM"],
+    "skipLibCheck": true,
     "experimentalDecorators": true,
-    "emitDecoratorMetadata": true
+    "emitDecoratorMetadata": true,
+    "typeRoots": [
+      "./node_modules/@types",
+      "./.yarn/cache/*/@types",
+      "./.yarn/unplugged/*/@types"
+    ]
   },
   "include": ["src", "jest"]
 }

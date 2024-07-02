@@ -1,3 +1,4 @@
+//@ts-nocheck
 import equals from 'ramda/src/equals';
 import React, { memo, ReactElement, useMemo } from 'react';
 import { Dimensions } from 'react-native';

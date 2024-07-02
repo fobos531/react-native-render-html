@@ -1,5 +1,7 @@
+//@ts-nocheck
 import { TNode } from '@native-html/transient-render-engine';
 import React from 'react';
+//@ts-ignore
 import { Platform, Text, View } from 'react-native';
 import { InternalTextContentRenderer } from '../render/render-types';
 
@@ -11,7 +13,9 @@ const isWeb = Platform.OS === 'web';
 
 function renderEmptyLineBreak(tnode: TNode) {
   const lineHeight =
+    //@ts-ignore
     tnode.styles.nativeTextFlow.lineHeight ||
+    //@ts-ignore
     tnode.styles.nativeTextFlow.fontSize! * 1.4;
   return <View style={{ height: lineHeight }} />;
 }

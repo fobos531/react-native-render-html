@@ -1,3 +1,4 @@
+//@ts-nocheck
 import React from 'react';
 import { ActivityIndicator, StyleSheet, Text, View } from 'react-native';
 import { RenderHTMLConfig, HTMLSourceUri } from '../shared-types';

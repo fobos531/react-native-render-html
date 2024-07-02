@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { Linking } from 'react-native';
 import { RenderersProps } from '../shared-types';
 

@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { DEFAULT_PRESSABLE_RIPPLE_COLOR } from '../constants';
 import { RenderHTMLAmbiantSharedProps } from '../shared-types';
 

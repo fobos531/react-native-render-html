@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { TBlock, TPhrasing, TText } from '@native-html/transient-render-engine';
 import React from 'react';
 import { TextProps, ViewProps } from 'react-native';

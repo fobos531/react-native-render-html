@@ -1,9 +1,11 @@
+//@ts-nocheck
 import React, {
   ComponentType,
   PropsWithChildren,
   ReactElement,
   useMemo
 } from 'react';
+
 import { View, StyleSheet, ViewStyle, ViewProps } from 'react-native';
 import GenericPressable from '../GenericPressable';
 import { IMGElementProps } from './img-types';

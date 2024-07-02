@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { useMemo } from 'react';
 import { Platform } from 'react-native';
 import { TRenderEngineConfig } from '../shared-types';

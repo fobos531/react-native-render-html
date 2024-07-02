@@ -1,6 +1,6 @@
 {
     "$schema": "http://json.schemastore.org/tsconfig",
-    "extends": "@tsconfig/react-native",
+    "extends": "@tsconfig/react-native/tsconfig.json",
     "compilerOptions": {
       "declaration": true,
       "skipLibCheck": true

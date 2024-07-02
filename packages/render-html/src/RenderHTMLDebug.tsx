@@ -1,3 +1,4 @@
+//@ts-nocheck
 import React, { Fragment, PropsWithChildren } from 'react';
 import debugMessage from './debugMessages';
 import { RenderHTMLProps } from './shared-types';

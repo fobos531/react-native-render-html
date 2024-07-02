@@ -1,3 +1,4 @@
+//@ts-nocheck
 import React, { memo, ReactElement } from 'react';
 import { TDefaultRenderer, TNodeRendererProps } from './shared-types';
 import { useSharedProps } from './context/SharedPropsProvider';

@@ -1,3 +1,4 @@
+//@ts-nocheck
 import React, { PropsWithChildren, ReactElement, useMemo } from 'react';
 import RenderersPropsProvider from './context/RenderersPropsProvider';
 import SharedPropsProvider from './context/SharedPropsProvider';

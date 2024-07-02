@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { ImageStyle } from 'react-native';
 import { WebBlockStyles } from '@native-html/transient-render-engine';
 

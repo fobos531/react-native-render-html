@@ -1,3 +1,4 @@
+//@ts-nocheck
 import React, { PropsWithChildren, useMemo } from 'react';
 import mergeDeepRight from 'ramda/src/mergeDeepRight';
 

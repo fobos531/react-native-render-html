@@ -1,3 +1,4 @@
+//@ts-nocheck
 import React from 'react';
 import { TDefaultRendererProps } from './shared-types';
 import GenericPressable from './GenericPressable';

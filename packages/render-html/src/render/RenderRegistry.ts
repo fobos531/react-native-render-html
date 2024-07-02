@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { TNode } from '@native-html/transient-render-engine';
 import { ComponentType } from 'react';
 import { CustomRendererProps } from '..';

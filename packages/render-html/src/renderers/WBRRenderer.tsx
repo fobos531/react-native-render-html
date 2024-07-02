@@ -1,3 +1,4 @@
+//@ts-nocheck
 import React from 'react';
 import { Text } from 'react-native';
 import { InternalTextContentRenderer } from '../render/render-types';

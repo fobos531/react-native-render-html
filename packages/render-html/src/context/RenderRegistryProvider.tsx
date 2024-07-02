@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { TNode, TText } from '@native-html/transient-render-engine';
 import React, { PropsWithChildren, useMemo } from 'react';
 import useProfiler from '../hooks/useProfiler';

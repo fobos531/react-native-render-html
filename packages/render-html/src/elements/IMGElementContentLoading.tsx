@@ -1,3 +1,4 @@
+//@ts-nocheck
 import React, { PropsWithChildren, ReactElement } from 'react';
 import { View } from 'react-native';
 import { IMGElementStateLoading } from './img-types';

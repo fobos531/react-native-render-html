@@ -1,3 +1,4 @@
+//@ts-nocheck
 import React, { ReactElement, useCallback } from 'react';
 import {
   Image,

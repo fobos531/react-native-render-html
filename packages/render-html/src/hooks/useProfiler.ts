@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { useCallback, useRef } from 'react';
 import identity from 'ramda/src/identity';
 

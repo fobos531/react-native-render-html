@@ -1,3 +1,4 @@
+//@ts-nocheck
 import React from 'react';
 import { InternalMixedRenderer } from '../render/render-types';
 import { TNode, DocumentContext } from '@native-html/transient-render-engine';

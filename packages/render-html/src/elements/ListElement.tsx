@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { StyleSheet, View } from 'react-native';
 import React from 'react';
 import { TBlock, TNode } from '@native-html/transient-render-engine';

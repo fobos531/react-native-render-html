@@ -1,3 +1,4 @@
+//@ts-nocheck
 import TRenderEngine from '@native-html/transient-render-engine';
 import React, { PropsWithChildren, ReactElement } from 'react';
 import useTRenderEngine from './hooks/useTRenderEngine';

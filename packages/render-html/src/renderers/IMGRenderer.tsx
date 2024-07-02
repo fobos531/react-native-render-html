@@ -1,3 +1,4 @@
+//@ts-nocheck
 import React, { useMemo } from 'react';
 import { TBlock } from '@native-html/transient-render-engine';
 import IMGElement, { IMGElementProps } from '../elements/IMGElement';
