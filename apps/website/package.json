@@ -22,7 +22,7 @@
     "@docusaurus/preset-classic": "2.0.0-beta.759298296",
     "@mdx-js/react": "^1.6.22",
     "clsx": "^1.1.1",
-    "docusaurus-plugin-sass": "frilox042/docusaurus-plugin-sass#fix-css-module-identName-dev",
+    "docusaurus-plugin-sass": "0.2.5",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-modal": "^3.13.1"
@@ -45,14 +45,14 @@
     "@doc/svgr-conf": "workspace:*",
     "@docusaurus/module-type-aliases": "2.0.0-beta.759298296",
     "@tsconfig/docusaurus": "^1.0.2",
-    "@types/react": "^17.0.4",
-    "@types/react-helmet": "^6.1.1",
+    "@types/react": "18.3.3",
+    "@types/react-helmet": "^6.1.11",
     "@types/react-modal": "^3.12.0",
     "@types/react-router-dom": "^5.1.7",
     "doc-docusaurus-rfg-plugin": "workspace:*",
     "doc-docusaurus-typedoc-plugin": "workspace:*",
     "sass": "^1.32.13",
     "typedoc": "^0.20.36",
-    "typescript": "4.2.2"
+    "typescript": "4.5.4"
   }
 }
